@@ -9,16 +9,11 @@ For this open-book quiz, you will include all of your "answers" in this README f
 Plagiarism will not be tolerated in this course. Make sure to familiarize yourself with Langara's [Academic Integrity policy](https://langara.ca/about-langara/policies/pdf/F1004.pdf). 
 
 
-## Task 1: Complete Survey
-
-For this task, please follow the instructions described in the [Quiz 1](Q1.md) file.
-
-
-## Task 2: Quiz Questions
+## Task 1: Quiz Questions
 
 For this task, please include your answers for the questions described in the [Quiz 1](Q1.md) file below:
 
 
-## Task 3: Video Questions
+## Task 2: Video Questions
 
 For this task, please include your answers for the questions described in the [Quiz 1](Q1.md) file below:
